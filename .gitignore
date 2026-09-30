@@ -16,8 +16,14 @@ ibm/ibm_train_balanced_smote.csv
 ibm/ibm_feature_rankings.xlsx
 saudi/saudi_preprocessed*.csv
 saudi/saudi_feature_rankings.xlsx
+**/*_copy7.csv
+**/*_copy7.xlsx
+**/*_feature_count_cv.csv
+**/*_feature_count_cv.png
+**/*_reliefF_vs_multisurf.csv
+**/*_reliefF_vs_multisurf.png
 
-# Historical notebook copies; the copy 3 notebooks are the working versions
+# Historical notebook copies
 ibm/ibm-preprocessing copy.ipynb
 ibm/ibm-preprocessing copy 2.ipynb
 saudi/saudi-preprocessing copy.ipynb
